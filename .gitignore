@@ -1,0 +1,10 @@
+# Ignore Cypress project and build artifacts
+.launches
+Debug
+.settings/org.eclipse.core.resources.prefs
+
+# Ignore local CCS config files
+*.jxbrowser-data
+*.metadata
+*dvt
+*RemoteSystemsTempFiles
